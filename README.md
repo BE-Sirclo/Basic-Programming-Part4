@@ -1,9 +1,9 @@
-## Cara mengerjakan tugas hari ke 2
+## Cara mengerjakan tugas hari ke 3
 
 clone project ini dengan cara
 
 ```
-git clone https://github.com/BE-Sirclo/Basic-Programming-Part2.git
+git clone https://github.com/BE-Sirclo/Basic-Programming-Part4.git
 ```
 
 `setelah clone selesai, pindah ke folder hasil clone` -> HAL INI DILAKUKAN 1x saja
@@ -21,7 +21,7 @@ setelah menjalankan perintah diatas, lakukan inisialisasi ulang untuk git dengan
 git init
 ```
 
-buat repository pada github organization kalian denga format: `Basic-Programming-Part2`
+buat repository pada github organization kalian denga format: `Basic-Programming-Part4`
 
 ## Tatacara Pengerjaan Tugas
 
